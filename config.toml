@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"
 title = "Whiteplain"
-themesDir = "../../"
+themesDir = "./themes/"
 theme = "whiteplain"
 languageCode = "ja"
 # Disqus shortname
