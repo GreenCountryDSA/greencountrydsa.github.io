@@ -2,6 +2,7 @@ baseurl = "https://example.com/"
 title = "Whiteplain"
 themesDir = "./themes/"
 theme = "whiteplain"
+publishDir = "docs"
 languageCode = "ja"
 # Disqus shortname
 #disqusShortname = ""
