@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green Country DSA</title>
-    <link>https://gcdsa.org/archives/</link>
+    <link>https://greencountrydsa.github.io/archives/</link>
     <description>Recent content on Green Country DSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>tulsa.dsa@gmail.com (Green Country DSA)</webMaster>
     <copyright>&amp;copy; Copyright 2017 Green Country DSA</copyright>
     
-	<atom:link href="https://gcdsa.org/archives/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greencountrydsa.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

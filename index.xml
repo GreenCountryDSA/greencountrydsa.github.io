@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green Country DSA</title>
-    <link>https://gcdsa.org/</link>
+    <link>https://greencountrydsa.github.io/</link>
     <description>Recent content on Green Country DSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,24 +11,24 @@
     <copyright>&amp;copy; Copyright 2017 Green Country DSA</copyright>
     <lastBuildDate>Sat, 24 Feb 2018 18:01:24 -0600</lastBuildDate>
     
-	<atom:link href="https://gcdsa.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greencountrydsa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ideology and Alienation: An Introduction</title>
-      <link>https://gcdsa.org/posts/20180224-01/</link>
+      <link>https://greencountrydsa.github.io/posts/20180224-01/</link>
       <pubDate>Sat, 24 Feb 2018 18:01:24 -0600</pubDate>
       <author>tulsa.dsa@gmail.com (Green Country DSA)</author>
-      <guid>https://gcdsa.org/posts/20180224-01/</guid>
+      <guid>https://greencountrydsa.github.io/posts/20180224-01/</guid>
       <description>To begin critiquing capitalism and imagining a future beyond it, it is necessary to develop a shared conceptual vocabulary. While one is right to be skeptical of complicated and jargon-laden theory, the ability to envision a better future requires a sophisticated diagnosis of the past and the present. One must use whatever tools available to develop pragmatic strategies guided by an unyielding vision of a better future. To this end, two Marxist conceptual tools will aid in the task of building something beyond capitalism: ideology and alienation.</description>
     </item>
     
     <item>
       <title>Reviving the Working Class Intellectual Tradition in Tumultuous Times</title>
-      <link>https://gcdsa.org/posts/welcome/</link>
+      <link>https://greencountrydsa.github.io/posts/welcome/</link>
       <pubDate>Sat, 24 Feb 2018 17:37:35 -0600</pubDate>
       <author>tulsa.dsa@gmail.com (Green Country DSA)</author>
-      <guid>https://gcdsa.org/posts/welcome/</guid>
+      <guid>https://greencountrydsa.github.io/posts/welcome/</guid>
       <description>The rise of market fundamentalism as an ideology to promote the neoliberal agenda has reached worrying levels and it is looking to be consolidated with the current administration. As a result, the heart of social democratic thinking—the idea that the promise of each human being can only be developed in a society driven by principles of liberty, equality, solidarity and cooperation—has been displaced by vicious and erroneous principles of individualism, competition, deregulation, and privatization.</description>
     </item>
     
