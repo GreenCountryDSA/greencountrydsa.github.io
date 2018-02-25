@@ -5,7 +5,9 @@
     <link>https://gcdsa.org/categories/</link>
     <description>Recent content in Categories on Green Country DSA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <managingEditor>tulsa.dsa@gmail.com (Green Country DSA)</managingEditor>
+    <webMaster>tulsa.dsa@gmail.com (Green Country DSA)</webMaster>
     <copyright>&amp;copy; Copyright 2017 Green Country DSA</copyright>
     
 	<atom:link href="https://gcdsa.org/categories/index.xml" rel="self" type="application/rss+xml" />
