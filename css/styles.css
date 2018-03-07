@@ -7,17 +7,9 @@ body {
 }
 
 a:link {
-	color: black;
-}
-a:visited {
-	color: darkgrey;
-}
-
-p a:link {
 	color: red;
 }
-
-p a:visited {
+a:visited {
 	color: darkred;
 }
 
