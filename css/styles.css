@@ -6,6 +6,13 @@ body {
   color: #333333;
 }
 
+a:link {
+	color: red;
+}
+a:visited {
+	color: darkred;
+}
+
 h1,
 h2,
 h3,
